@@ -1,2 +1,2 @@
 # Sensor Importance Data Science
- Rank the sensors according to their importance
+The file task_data.csv contains hypothetically generated data. The set consists of 400 samples where for each  sample  there  are  10different  sensor readings  available.  The  samples  havebeen  divided  into  twoclasses where the class label is either 1 or -1. The class labels define to whatparticular class a particular sample  belongs.Your  task  is  to  rank  the  sensors  according  to  their  importance/predictive  powerwith respect to the class labels of the samples
